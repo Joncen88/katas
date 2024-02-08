@@ -14,19 +14,8 @@ function numerToBoolean(n) {
 }
 console.log(numerToBoolean(-30))
 
-/* let age = 20
-let isAdult
-
-if (age >= 18) {
-    isAdult = true
-} else {
-    isAdult = false
-}
 
 
-let age = 20
-let isAdult = age >= 18 ? true : false
-*/
 
 
 
