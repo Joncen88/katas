@@ -1,0 +1,12 @@
+function countVowels (vowels) {
+    let sum = 0
+    for (let vowel of vowels) {
+        if (vowel === 'a' || vowel === 'e' || vowel === 'i' ||
+        vowel === 'o' || vowel ==='u') {
+            sum = sum + 1
+        } 
+        }
+    
+    
+    return sum
+    }
